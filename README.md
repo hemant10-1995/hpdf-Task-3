@@ -50,9 +50,14 @@ follow this instruction to run this code on your local machine
 
 Some sample Images are :
 This page for input
+
 ![o1](https://user-images.githubusercontent.com/31190062/35481935-62beb876-0453-11e8-9b98-6505c17a921c.png)
+
+
 This page having analyzed in JSON format:
 ![o2](https://user-images.githubusercontent.com/31190062/35481936-6330e22a-0453-11e8-84ba-84fafdf795a6.png)
+
+
 Continue:
 ![o3](https://user-images.githubusercontent.com/31190062/35481937-63757ed0-0453-11e8-8976-8199d6ab61e0.png)
 

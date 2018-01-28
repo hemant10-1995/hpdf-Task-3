@@ -46,7 +46,7 @@ follow this instruction to run this code on your local machine
  * Debugger PIN: 146-942-009
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-10. Go to your Favourite Browser and copy/type the link as shown in command prompt.(Not Necessarily localhost:5000 always)
+11. All set ,Go to your Favourite Browser and copy/type the link as shown in command prompt.(Not Necessarily localhost:5000 always)
 
 Some sample Images are :
 This page for input
@@ -54,8 +54,10 @@ This page for input
 ![o1](https://user-images.githubusercontent.com/31190062/35481935-62beb876-0453-11e8-9b98-6505c17a921c.png)
 
 
+
 This page having analyzed in JSON format:
 ![o2](https://user-images.githubusercontent.com/31190062/35481936-6330e22a-0453-11e8-84ba-84fafdf795a6.png)
+
 
 
 Continue:
